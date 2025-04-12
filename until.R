@@ -11,3 +11,7 @@ my_x_cube <- function(x){
 my_x_sqrt <- function(x){
   sqrt(x)
 }
+
+my_x_exp <- function(x){
+  exp(x)
+}
